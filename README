@@ -1,0 +1,25 @@
+A beautiful 2D platformer made on Unity Engine. 
+Engine Used: Unity Engine.
+Programming language used: C#.
+Total scripts: 21
+  AdvancedAirEnemy - Script for Advanced enemy which moves through numerous points,
+  AirEnemy - Script for air enemy,
+  BackGround - Script for smooth movement background,
+  Bettle - Script for the enemy underground,
+  Bomber - A script for a shooting enemy,
+  Bullet - Script for ammo shooting enemy,
+  Button - Script for a button that removes certain blocks,
+  Camn - Script for the main camera in game,
+  Destroyable - Script for destroy anything. As a rule - the enemy,
+  Door - Script for door teleportation,
+  Enemy - Script for common enemy,
+  Finish - A script that allows the player to complete a level,
+  Fly_Platform - Script for Move platform,
+  GroundEnemy - Script for ground enemy,
+  Inventory - Script for Players inventory,
+  MagicCarPet - Script for a platform moving in contact with a player,
+  Main - One is main script for comfortable game,
+  Menu - Script of Main menu,
+  MovePlatform - Script for move platform,
+  Player - One is main script,
+  SoundEffector - Script for sounds;
